@@ -1,0 +1,16 @@
+.banner {
+  display: flex;
+  border: 1px solid;
+
+  margin-right: 10px;
+  width: 100%;
+}
+.banner__header {
+  flex: 0.7;
+  width: 100%;
+}
+.banner__image {
+  object-fit: contain;
+  width: 100%;
+  min-width: 500px;
+}

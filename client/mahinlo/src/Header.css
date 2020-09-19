@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  flex: 1;
+  margin-bottom: 30px;
+}
+.header__option {
+  display: flex;
+  margin-top: 10px;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
